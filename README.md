@@ -14,16 +14,16 @@ You can contact the Salesforce GSoC team at oss-gsoc@salesforce.com or by openin
 
 * **Model interpretability**
     * Implement alternative interpretability techniques, e.g. permutation feature importance, Shapley additive explanations.
-    * Prototype an evaluation metric for comparing feature importances. 
+    * Prototype an evaluation metric for comparing feature importances.
 
 * **Hyper-parameter optimization**
-    * Storing & reusing previous hyper-parameters for future model trainings 
-    * Implement alternative model selection strategy, e.g. Bayesian search, intelligent search space pruning, secondary model based on dataset metadata. 
+    * Storing & reusing previous hyper-parameters for future model trainings.
+    * Implement alternative model selection strategy, e.g. Bayesian search, intelligent search space pruning, secondary model based on dataset metadata.
 
 * **Usability**
     * Jupiter notebook for TransmogrifAI.
     * Importing TransmogrifAI models in Python.
-* **Have something else in mind?** Look [here](https://github.com/salesforce/TransmogrifAI/issues) for more issues/ideas.   
+* **Have something else in mind?** Look [here](https://github.com/salesforce/TransmogrifAI/issues) for more issues/ideas.
 
 ### Design System React – [salesforce/design-system-react](https://github.com/salesforce/design-system-react)
 This project is open to original proposals from participants.
