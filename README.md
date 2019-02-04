@@ -10,9 +10,22 @@ You can contact the Salesforce GSoC team at oss-gsoc@salesforce.com or by openin
 
 **Deadline for project submissions is February 6 at 12:00 PST**
 
-### TransmogrifAI [salesforce/transmogrifai](https://github.com/salesforce/TransmogrifAI)
+### TransmogrifAI – [salesforce/transmogrifai](https://github.com/salesforce/TransmogrifAI)
 
-### Design System React [salesforce/design-system-react](https://github.com/salesforce/design-system-react)
+* **Model interpretability**
+    * Implement alternative interpretability techniques, e.g. permutation feature importance, Shapley additive explanations.
+    * Prototype an evaluation metric for comparing feature importances. 
+
+* **Hyper-parameter optimization**
+    * Storing & reusing previous hyper-parameters for future model trainings 
+    * Implement alternative model selection strategy, e.g. Bayesian search, intelligent search space pruning, secondary model based on dataset metadata. 
+
+* **Usability**
+    * Jupiter notebook for TransmogrifAI.
+    * Importing TransmogrifAI models in Python.
+* **Have something else in mind?** Look [here](https://github.com/salesforce/TransmogrifAI/issues) for more issues/ideas.   
+
+### Design System React – [salesforce/design-system-react](https://github.com/salesforce/design-system-react)
 This project is open to original proposals from participants.
 
 #### Proposal Suggestions
@@ -23,7 +36,7 @@ This project is open to original proposals from participants.
 * **Iterate on developer experience:** Geared toward a participant interested in developer operations, this task would focus on iterating and streamlining the contributor workflow to ensure a convenient and clear developer experience that scales and increases developer productivity. Technologies likely to be used include Webpack, Babel, Storybook, Jest and Mocha suites, Visual Regression Tests, and aXe accessibility automated testing.
 
 
-### oclif [oclif/oclif](https://github.com/oclif/oclif)
+### oclif – [oclif/oclif](https://github.com/oclif/oclif)
 
 # Code of Conduct
 
