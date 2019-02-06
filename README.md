@@ -38,6 +38,7 @@ This project is open to original proposals from participants.
 
 
 ### oclif – [oclif/oclif](https://github.com/oclif/oclif)
+* **Design an oclif linter.** Linters have become the go-to way of enforcing code styles. For this project, we're looking to build a linter for oclif developers to enforce better practices. The linter needs to be able to lint both Typescript and plain JS CLI's, should run via the command line and also integrate into various IDE's (ex: Atom, VS Code).
 
 # Code of Conduct
 
