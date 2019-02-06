@@ -12,18 +12,19 @@ You can contact the Salesforce GSoC team at oss-gsoc@salesforce.com or by openin
 
 ### TransmogrifAI – [salesforce/transmogrifai](https://github.com/salesforce/TransmogrifAI)
 
-* **Model interpretability**
-    * Implement alternative interpretability techniques, e.g. permutation feature importance, Shapley additive explanations.
-    * Prototype an evaluation metric for comparing feature importances.
+* **Model interpretability/explainability**
+    * Insights into the functioning of machine learning models can foster greater trust and increased transparency around automated machine-learning driven decisions. In this task, we would like to enhance the algorithmic techniques that TransmogrifAI provides to peak into the black-box of machine learning models. Today, TransmogrifAI already comes with techniques such as LOCO and correlation-weighted feature importances to provide explainability at the level of individual automated decisions. We would like to enhance the set of techniques available for developers to use. Examples include Permutation Feature Importance or Shapley Additive Explanations.
+    * How does one evaluate which of the techniques above provides the best insights and explainability into the workings of a machine learning model? A follow up task would be to prototype an evaluation metric for comparing feature importances across different interpretability techniques.
 
-* **Hyper-parameter optimization**
-    * Storing & reusing previous hyper-parameters for future model trainings.
-    * Implement alternative model selection strategy, e.g. Bayesian search, intelligent search space pruning, secondary model based on dataset metadata.
+* **Hyperparameter optimization**
+    * One of the most expensive parts of automated model training is searching the space of hyperparameters for the machine learning algorithms to find the best ones. We would like to enhance the TransmogrifAI model selector API to store and load the best hyperparameters based on previous model trainings on the same dataset so that the search can start off from a smarter starting point. We can also store the relative importances of each hyperparameter in previous model trainings, so that the future searches can focus more on the most impactful hyperparameters.
+    * In addition, there are more sophisticated hyperparameter search strategies we want to investigate. Random search with configurable stopping criteria, intelligent search space pruning, or even a secondary model to predict good hyperparameters based on dataset metadata. These can be benchmarked against publicly available datasets like the OpenML 100.
 
-* **Usability**
-    * Jupiter notebook for TransmogrifAI.
-    * Importing TransmogrifAI models in Python.
-* **Have something else in mind?** Look [here](https://github.com/salesforce/TransmogrifAI/issues) for more issues/ideas.
+* **Developer Experience**
+    * Setup a Jupiter notebook for TransmogrifAI with Scala and Spark to simplify the on-boarding experience with our library and allow faster prototyping of ideas.
+    * Enable import of TransmogrifAI models into Python or PySpark enabled environments to allow easier exploration and evaluation of our models against other machine learning libraries.
+
+* **Aren't finding what you like?** Look for more issues/ideas here - https://github.com/salesforce/TransmogrifAI/issues
 
 ### Design System React – [salesforce/design-system-react](https://github.com/salesforce/design-system-react)
 This project is open to original proposals from participants.
