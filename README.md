@@ -6,9 +6,7 @@
 
 You can contact the Salesforce GSoC team at oss-gsoc@salesforce.com or by opening an issue on this repository. The program administrator is Chris Kelly and can be contacted on GitHub or Twitter at @amateurhuman.
 
-# Project Ideas 
-
-**Deadline for project submissions is February 6 at 12:00 PST**
+# Project Ideas
 
 ### TransmogrifAI – [salesforce/transmogrifai](https://github.com/salesforce/TransmogrifAI)
 This project is open to original proposals from participants.
@@ -37,6 +35,8 @@ This project is open to original proposals from participants.
 * **Iterate on developer experience:** Geared toward a participant interested in developer operations, this task would focus on iterating and streamlining the contributor workflow to ensure a convenient and clear developer experience that scales and increases developer productivity. Technologies likely to be used include Webpack, Babel, Storybook, Jest and Mocha suites, Visual Regression Tests, and aXe accessibility automated testing.
 
 * **Aren't finding what you're interested in?** Look for more ideas at https://github.com/salesforce/design-system-react/issues
+
+* **Mentor(s):** Stephen James ([@interactivellama](https://github.com/interactivellama)), Lead UX Engineer; Dave Woodward ([@futuremint](https://github.com/futuremint)), UX Engineering Architect
 
 
 ### oclif – [oclif/oclif](https://github.com/oclif/oclif)
