@@ -3,11 +3,11 @@
 ## About the Code of Conduct
 
 Equality is a core value at Salesforce. We believe a diverse and inclusive
-community fosters innovation and creativity, and are committed to building a
-culture where everyone feels included.
+community fosters innovation and creativity, and are committed to building 
+the culture where everyone feels included.
 
 Salesforce open-source projects are committed to providing a friendly, safe, and
-welcoming environment for all, regardless of gender identity and expression,
+a welcoming environment for all, regardless of gender identity and expression,
 sexual orientation, disability, physical appearance, body size, ethnicity, nationality, 
 race, age, religion, level of experience, education, socioeconomic status, or 
 other similar personal characteristics.
@@ -24,7 +24,7 @@ Open Source Conduct Committee at ossconduct@salesforce.com.
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
+contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of gender 
 identity and expression, sexual orientation, disability, physical appearance, 
 body size, ethnicity, nationality, race, age, religion, level of experience, education, 
@@ -71,7 +71,7 @@ This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project email
 address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
+representative at an online or offline event. The representation of a project may be
 further defined and clarified by project maintainers.
 
 ## Enforcement
